@@ -1,4 +1,4 @@
-# CMPUT404 Encrypt (cmput404_encrypt)
+# CMPUT401 Encrypt (cmput404_encrypt)
 
 A Quasar Framework app
 

@@ -98,7 +98,7 @@ module.exports = function (ctx) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'CMPUT404 Encrypt',
+        name: 'CMPUT401 Encrypt',
         short_name: 'CMPUT404 Encrypt',
         description: 'A Quasar Framework app',
         display: 'standalone',
@@ -138,7 +138,7 @@ module.exports = function (ctx) {
     // Full list of options: https://quasar.dev/quasar-cli/developing-cordova-apps/configuring-cordova
     cordova: {
       // noIosLegacyBuildFlag: true, // uncomment only if you know what you are doing
-      id: 'ca.ualberta.commande.cmput404'
+      id: 'ca.ualberta.commande.cmput401'
     },
 
 
@@ -167,7 +167,7 @@ module.exports = function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'cmput404_encrypt'
+        appId: 'cmput401_encrypt'
       },
 
       // More info: https://quasar.dev/quasar-cli/developing-electron-apps/node-integration

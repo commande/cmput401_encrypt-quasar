@@ -15,7 +15,7 @@
           Asn1
         </q-toolbar-title>
 
-        <div>CMPUT404</div>
+        <div>CMPUT401</div>
       </q-toolbar>
     </q-header>
 
